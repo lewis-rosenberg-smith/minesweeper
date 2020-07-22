@@ -96,7 +96,7 @@ function checkForWin() {
     }
   }
   if (youWon) {
-    displayMessage("You Win!")
+    displayMessage("Shakas in the air like U just don care!")
   }
 }
 
